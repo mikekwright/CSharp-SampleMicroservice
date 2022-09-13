@@ -6,3 +6,10 @@ build-release:
 
 run:
 	dotnet run /p:Platform="Any CPU" /p:Configuration=Debug --project TaskService
+
+build-docker:
+	docker build -t csharp-sample .
+
+run-docker:
+	docker run -it --rm -p 5000:80 csharp-sample
+
