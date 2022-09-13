@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskService", "TaskService\TaskService.csproj", "{94C04716-5052-44AB-B0F2-252898950A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskModels", "TaskModels\TaskModels.csproj", "{C8085044-CEC3-4168-B8CE-E711BD4F411F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C04716-5052-44AB-B0F2-252898950A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C04716-5052-44AB-B0F2-252898950A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C04716-5052-44AB-B0F2-252898950A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C04716-5052-44AB-B0F2-252898950A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8085044-CEC3-4168-B8CE-E711BD4F411F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8085044-CEC3-4168-B8CE-E711BD4F411F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8085044-CEC3-4168-B8CE-E711BD4F411F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8085044-CEC3-4168-B8CE-E711BD4F411F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
