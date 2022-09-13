@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+
 namespace TaskService.DataLayer.Entity
 {
     public class UserEntity
