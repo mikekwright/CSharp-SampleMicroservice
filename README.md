@@ -27,4 +27,10 @@ Start the app by running the following:
     make build-docker
     make run-docker
 
+View Swagger
+-----------------------------------------------
 
+There exists an automatic swagger generated endpoint that can be
+found, once the app is running at
+
+    http://localhost:5000/swagger
